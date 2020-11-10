@@ -1,0 +1,4 @@
+views/base.html should be a symlink to template with the following block
+
+{% block content %}
+{% endblock content %}
